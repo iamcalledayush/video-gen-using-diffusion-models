@@ -1,3 +1,5 @@
+# NOTE: This work is an attempt to improve the following work:
+
 # Rerender A Video - Official PyTorch Implementation
 
 ![teaser](https://github.com/williamyang1991/Rerender_A_Video/assets/18130694/aa7dc164-dab7-43f4-a46b-758b34911f16)

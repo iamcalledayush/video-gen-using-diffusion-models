@@ -1,0 +1,27 @@
+{
+    "input": "videos/cxk_basketball.mp4",
+    "output": "videos/cxk_dl/dl.mp4",
+    "work_dir": "videos/cxk_dl",
+    "key_subdir": "keys",
+    "frame_diff": "dl",
+    "frame_count": 101,
+    "interval": 10,
+    "sd_model": "models/camelliamix25D_v3.safetensors",
+    "prompt": "a boy is playing basketball",
+    "a_prompt": "best quality, extremely detailed",
+    "n_prompt": "longbody, lowres, bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality",
+    "x0_strength": 0.75,
+    "control_type": "canny",
+    "canny_low": 50,
+    "canny_high": 100,
+    "control_strength": 0.7,
+    "seed": 0,
+    "warp_period": [
+        0,
+        0.1
+    ],
+    "ada_period": [
+        1,
+        1
+    ]
+}
